@@ -1,0 +1,2 @@
+streamlit==1.27.0  # Ensure compatibility with the Streamlit version you are using
+groq==0.1.0        # Replace with the actual version of the groq library installed
